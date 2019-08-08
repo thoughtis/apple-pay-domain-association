@@ -14,7 +14,7 @@
  * Description: Serves the Apple Developer merchantid domain association file.
  * Author:      Thought & Expression Co. <devjobs@thought.is>
  * Author URI:  https://thought.is
- * Version:     0.1.0
+ * Version:     0.1.1
  * License:     GPL v2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
