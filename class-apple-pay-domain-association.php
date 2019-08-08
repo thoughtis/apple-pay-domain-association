@@ -59,11 +59,11 @@ class Apple_Pay_Domain_Association {
 	 */
 	public static function handle_request( WP $wp ) : void {
 
-		if ( ! isset( $wp->query_vars['my_theme_adstxt'] ) ) {
+		if ( ! isset( $wp->query_vars['apple_pay_domain_association'] ) ) {
 			return;
 		}
 
-		if ( 'true' !== $wp->query_vars['my_theme_adstxt'] ) {
+		if ( 'true' !== $wp->query_vars['apple_pay_domain_association'] ) {
 			return;
 		}
 
